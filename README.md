@@ -1,4 +1,4 @@
-#Item Catalog Application - Udacity Nanodegree Project 4
+# Item Catalog Application - Udacity Nanodegree Project 4
 
 ## About
 This project is a RESTful web application utilizing the Flask framework which accesses a SQL database that populates categories and their items.
